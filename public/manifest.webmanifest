@@ -1,0 +1,14 @@
+{
+  "name": "Arena do Conhecimento",
+  "short_name": "Arena Clóvis",
+  "description": "Desafios de Matemática e Português da EREM Clóvis Beviláqua",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070817",
+  "theme_color": "#6d5dfc",
+  "orientation": "any",
+  "icons": [
+    { "src": "/logo-erem-clovis-bevilaqua.png", "sizes": "any", "type": "image/png", "purpose": "any" },
+    { "src": "/logo-erem-clovis-bevilaqua.png", "sizes": "any", "type": "image/png", "purpose": "maskable" }
+  ]
+}
